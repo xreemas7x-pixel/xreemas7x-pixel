@@ -2,8 +2,6 @@
 
 * 💻 **IT & Data Science/AI Student** at King Saud University.
 * 🎨 **Visual Artist & UI/UX Designer** blending creativity with technology.
-* 🚀 Founder of **RMSU / ROYAL GUILD** and creator of digital platforms like **Beehive** & **Hathwa**.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
