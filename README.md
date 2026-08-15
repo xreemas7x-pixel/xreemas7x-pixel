@@ -5,6 +5,10 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Programming Languages:** Java, Python, JavaScript, HTML, CSS, SwiftUI
+* **Programming Languages:** C++, Java, Python, JavaScript, HTML, CSS, SwiftUI
+* **Frontend Development:** Expo, Flutter
+* **Backend & Mobile Technologies:** React Native, Firebase
+* **Networking & Protocols:** Sockets, TCP, UDP
+* **AI & Development Assistants:** Claude, Claude Code
 * **Design & Prototyping:** Figma, Canva, Adobe Tools
-* **Development Tools:** VS Code, NetBeans, Xcode, Git, GitHub
+* **Development & AI Platforms:** Lovable, VS Code, NetBeans, Xcode, Git, GitHub
