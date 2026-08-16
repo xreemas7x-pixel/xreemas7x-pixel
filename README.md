@@ -4,8 +4,7 @@ I'm a passionate technologist and visual artist, bridging the gap between innova
 
 * 💻 **IT & Data Science/AI Student** at King Saud University.
 * 🎨 **Visual Artist & UI/UX Designer** blending creativity with technology to craft engaging digital experiences.
-* 🚀 **Tech Entrepreneur:** Developing scalable platforms like *Beehive* (SaaS) and *Hadhwa*, and founder of *ROYAL GUILD*.
-* 🏆 **Award Winner:** Recognized for Best UI/UX and Network Design projects at the KSU IT Fair (2025 & 2026).
+* 🚀 **Tech Entrepreneur:** Developing scalable platforms.
 
 ---
 
